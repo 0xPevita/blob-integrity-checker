@@ -7,7 +7,7 @@
 
 ## Overview
 
-Verifies local files match their on-chain Shelby hash — ensuring nothing was tampered with after upload.
+Verifies local files match their on-chain Shelby hash ensuring nothing was tampered with after upload.
 
 ## Build
 ```bash
