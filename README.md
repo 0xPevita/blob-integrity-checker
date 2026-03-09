@@ -27,7 +27,7 @@ cargo build --release
 
 ## Why Rust?
 
-File hashing is I/O and CPU intensive. Rust delivers zero-cost abstractions with no GC pauses — critical for large ML datasets on Shelby.
+File hashing is I/O and CPU intensive. Rust delivers zero-cost abstractions with no GC pauses - critical for large ML datasets on Shelby.
 
 ## License
 MIT
